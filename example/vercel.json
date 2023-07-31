@@ -27,5 +27,8 @@
       "dest": "example/wsgi.py"
     }
 
-  ]
+  ],
+  {
+    "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
+  }
 }
