@@ -1,0 +1,14 @@
+﻿asgiref==3.7.1
+Django==4.2.1
+django-extensions==3.2.3
+django-social-share==2.3.0
+gunicorn==21.2.0
+mysql==0.0.3
+mysqlclient==2.2.0
+packaging==23.1
+Pillow==9.5.0
+PyMySQL==1.1.0
+sqlparse==0.4.4
+typing_extensions==4.6.2
+tzdata==2023.3
+whitenoise==6.5.0
